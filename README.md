@@ -248,3 +248,7 @@ def set_seed(seed: int = 1746):
 1. Bojarski et al. (2016). *End to End Learning for Self-Driving Cars.* NVIDIA.
 2. Xu et al. (2017). *End-to-End Deep Learning for Steering Autonomous Vehicles Considering Temporal Dependencies.*
 3. Shafiullah et al. (2022). *Behavior Transformers: Cloning k modes with one stone.* NeurIPS.
+
+---
+
+*Made by orfegrace*
